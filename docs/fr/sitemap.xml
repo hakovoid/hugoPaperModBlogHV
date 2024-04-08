@@ -2,52 +2,52 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://localhost:1313/fr/categories/</loc>
+    <loc>https://hakovoid.github.io/hugoPaperModBlogHV/fr/categories/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://localhost:1313/categories/"
+                href="https://hakovoid.github.io/hugoPaperModBlogHV/categories/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
-                href="http://localhost:1313/fr/categories/"
+                href="https://hakovoid.github.io/hugoPaperModBlogHV/fr/categories/"
                 />
   </url><url>
-    <loc>http://localhost:1313/fr/</loc>
+    <loc>https://hakovoid.github.io/hugoPaperModBlogHV/fr/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://localhost:1313/"
+                href="https://hakovoid.github.io/hugoPaperModBlogHV/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
-                href="http://localhost:1313/fr/"
+                href="https://hakovoid.github.io/hugoPaperModBlogHV/fr/"
                 />
   </url><url>
-    <loc>http://localhost:1313/fr/series/</loc>
+    <loc>https://hakovoid.github.io/hugoPaperModBlogHV/fr/series/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://localhost:1313/series/"
+                href="https://hakovoid.github.io/hugoPaperModBlogHV/series/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
-                href="http://localhost:1313/fr/series/"
+                href="https://hakovoid.github.io/hugoPaperModBlogHV/fr/series/"
                 />
   </url><url>
-    <loc>http://localhost:1313/fr/tags/</loc>
+    <loc>https://hakovoid.github.io/hugoPaperModBlogHV/fr/tags/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://localhost:1313/tags/"
+                href="https://hakovoid.github.io/hugoPaperModBlogHV/tags/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
-                href="http://localhost:1313/fr/tags/"
+                href="https://hakovoid.github.io/hugoPaperModBlogHV/fr/tags/"
                 />
   </url>
 </urlset>

@@ -2,87 +2,87 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://localhost:1313/categories/</loc>
+    <loc>https://hakovoid.github.io/hugoPaperModBlogHV/categories/</loc>
     <lastmod>2024-04-05T11:21:33+02:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
-                href="http://localhost:1313/fr/categories/"
+                href="https://hakovoid.github.io/hugoPaperModBlogHV/fr/categories/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://localhost:1313/categories/"
+                href="https://hakovoid.github.io/hugoPaperModBlogHV/categories/"
                 />
   </url><url>
-    <loc>http://localhost:1313/tags/dev/</loc>
+    <loc>https://hakovoid.github.io/hugoPaperModBlogHV/tags/dev/</loc>
     <lastmod>2024-04-05T11:21:33+02:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/categories/development/</loc>
+    <loc>https://hakovoid.github.io/hugoPaperModBlogHV/categories/development/</loc>
     <lastmod>2024-04-05T11:21:33+02:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/</loc>
+    <loc>https://hakovoid.github.io/hugoPaperModBlogHV/</loc>
     <lastmod>2024-04-05T11:21:33+02:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
-                href="http://localhost:1313/fr/"
+                href="https://hakovoid.github.io/hugoPaperModBlogHV/fr/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://localhost:1313/"
+                href="https://hakovoid.github.io/hugoPaperModBlogHV/"
                 />
   </url><url>
-    <loc>http://localhost:1313/posts/</loc>
+    <loc>https://hakovoid.github.io/hugoPaperModBlogHV/posts/</loc>
     <lastmod>2024-04-05T11:21:33+02:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/posts/something2/</loc>
+    <loc>https://hakovoid.github.io/hugoPaperModBlogHV/posts/something2/</loc>
     <lastmod>2024-04-05T11:21:33+02:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/</loc>
+    <loc>https://hakovoid.github.io/hugoPaperModBlogHV/tags/</loc>
     <lastmod>2024-04-05T11:21:33+02:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
-                href="http://localhost:1313/fr/tags/"
+                href="https://hakovoid.github.io/hugoPaperModBlogHV/fr/tags/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://localhost:1313/tags/"
+                href="https://hakovoid.github.io/hugoPaperModBlogHV/tags/"
                 />
   </url><url>
-    <loc>http://localhost:1313/tags/tech/</loc>
+    <loc>https://hakovoid.github.io/hugoPaperModBlogHV/tags/tech/</loc>
     <lastmod>2024-04-05T11:21:33+02:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/cyber/</loc>
+    <loc>https://hakovoid.github.io/hugoPaperModBlogHV/tags/cyber/</loc>
     <lastmod>2024-04-05T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/categories/cybersecurity/</loc>
+    <loc>https://hakovoid.github.io/hugoPaperModBlogHV/categories/cybersecurity/</loc>
     <lastmod>2024-04-05T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/posts/something3/</loc>
+    <loc>https://hakovoid.github.io/hugoPaperModBlogHV/posts/something3/</loc>
     <lastmod>2024-04-05T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/posts/something4/</loc>
+    <loc>https://hakovoid.github.io/hugoPaperModBlogHV/posts/something4/</loc>
     <lastmod>2024-04-05T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/posts/something5/</loc>
+    <loc>https://hakovoid.github.io/hugoPaperModBlogHV/posts/something5/</loc>
     <lastmod>2024-04-05T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/about/</loc>
+    <loc>https://hakovoid.github.io/hugoPaperModBlogHV/about/</loc>
   </url><url>
-    <loc>http://localhost:1313/series/</loc>
+    <loc>https://hakovoid.github.io/hugoPaperModBlogHV/series/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
-                href="http://localhost:1313/fr/series/"
+                href="https://hakovoid.github.io/hugoPaperModBlogHV/fr/series/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://localhost:1313/series/"
+                href="https://hakovoid.github.io/hugoPaperModBlogHV/series/"
                 />
   </url>
 </urlset>
